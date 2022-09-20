@@ -1,0 +1,25 @@
+body {
+	color: royalblue;
+	background-color: beige;
+}
+ul{
+	list-style-type: none;
+	padding: 0px;
+}
+li {
+	display: flex;
+	background: blue;
+	justify-content: space-between;
+	color: white;
+	border: 1px solid burlywood;
+	padding-left: 20px;
+}
+.todo-button{
+	color: white;
+	background-color: blue;
+}
+.close-button {
+	background: blue;
+	color: white;
+	font-size: 24px;
+}
